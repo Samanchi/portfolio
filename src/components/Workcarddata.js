@@ -4,8 +4,8 @@ const ProjectCardData=[
         imgsrc:'https://m.media-amazon.com/images/I/81-d0FG6XXL._SL1500_.jpg',
         title:'Basic Calculator App using ReactJS',
         text:'Deevloped a basic Calculator application using HTML, CSS, JAVASCRIPT, REACT. Considered UseState Hooks to create application in react. User can perform all sorts of Airthmetic Operations using this application.',
-        view: '',
-        source:''
+        view: 'https://samanchi.github.io/reactcalculator/',
+        source:'https://github.com/Samanchi/reactcalculator'
     },
     {
         imgsrc:'https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU',
